@@ -2,7 +2,7 @@
 
 Queries used for Tableau Project 
 
-(same ones from SQL Exploration with the removal of some query statements)
+(same ones from SQL Exploration excluding some query statements)
 
 */
 
